@@ -11,6 +11,8 @@ The models built and compared in this project are:
 - Support Vector Machine (SVM) 💡
 - K-Nearest Neighbors (KNN) 🤝
 
+Dataset used - https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data
+
 ## 🧠 What I Learned
 
 Throughout this project, I gained hands-on experience in:
